@@ -1,0 +1,13 @@
+So now the total variable has an issue.
+I want to get the total but the only other
+solution i found was to save the price in
+a list and then use it's sum a the value for
+total. The problem with this is that it will
+just adds up everything over and over
+again. Like for example if i have just
+one (1) price of 100 it will continue
+to add this value onto itself even if add
+another item or not. Like the first time it will give
+100 the second 200 the third 300...and so on.
+I dumped that issue and instead used another which also
+does not work.
